@@ -25,7 +25,7 @@ I'm a **Software Engineer** and **AI/ML Enthusiast** passionate about building i
 
 > **awaisaziz/awaisaziz** is a [special GitHub repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) — its `README.md` appears on my public GitHub profile.
 
-It also hosts the source code for my **personal portfolio website**, live at 👉 **[awaisaziz.github.io](https://awaisaziz.github.io)**
+It also hosts the source code for my **personal portfolio website**, live at 👉 **[awaisaziz.github.io/portfolio](https://awaisaziz.github.io/portfolio)**
 
 Built with a modern **React + Vite** stack and deployed automatically to **GitHub Pages** via **GitHub Actions** on every push to `main`.
 
